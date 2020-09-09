@@ -5,7 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: "Gridsome Template Blank",
+  siteName: "Nihmble",
+  siteDescription: "Nihmble is a custom website creation shop that uses Vue and React with static site generation tools like Gridsome and Gatsby.",
   transformers: {
     remark: {
       externalLinksTarget: "_blank",
